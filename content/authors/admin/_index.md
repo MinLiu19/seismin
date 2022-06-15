@@ -61,7 +61,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Min Liu is a recent Ocean Frontier Institute Postdoctoral Fellow in the Department of Earth and Environmental Sciences at Dalhousie University. Min was a visiting PhD student at Dalhousie from June 2019 to August 2020 before he received his PhD from the China University of Geosciences (Beijing) in September 2021. His PhD work focuses on the understanding of how earthquakes nucleate, migrate and their associated seismogenic structures using state-of-the-art methods including machine-learning-based high-precision earthquake location.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
