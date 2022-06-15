@@ -4,10 +4,11 @@ title: "LOC-FLOW: An End-to-End Machine-Learning-Based High-Precision Earthquake
 publication_types:
   - "2"
 authors:
-  - Zhang M.
-  - Liu M.
-  - Feng T.
-  - Wang R. and Zhu W.
+  - Zhang Miao
+  - Liu Min
+  - Feng Tian
+  - Wang Ruijia
+  - Zhu Weiqiang
 doi: "https://doi.org/10.1785/0220220019 "
 publication: Seismological Research Letters
 draft: false
