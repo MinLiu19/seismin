@@ -14,7 +14,7 @@ authors:
   - Huiping Zhang
 doi: https://doi.org/10.1016/j.tecto.2022.229445
 publication: Tectonophysics
-abstract: The Chuan-Dian block is one of the most seismically active regions in
+abstract: "The Chuan-Dian block is one of the most seismically active regions in
   China. However, its western boundary – Weixi-Qiaohou-Weishan fault is an
   exception, which had maintained nearly 65-year hiatus in major seismic
   activity until 2013. Recently, several moderate earthquakes (MS 5.0– 6.4) have
@@ -33,7 +33,7 @@ abstract: The Chuan-Dian block is one of the most seismically active regions in
   further illuminate the 2013 Eryuan sequence was accommodated by a strike-slip
   fault system separated by extensional stepover zones. In addition, we identify
   six repeating earthquake doublets in the aftershock sequence, implying that
-  some aftershocks of the MS 5.5 Eryuan mainshock may be driven by afterslip.
+  some aftershocks of the MS 5.5 Eryuan mainshock may be driven by afterslip. "
 draft: false
 featured: false
 image:
