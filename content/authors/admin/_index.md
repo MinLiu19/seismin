@@ -21,7 +21,7 @@ interests:
   - Earthquake Nucleation
   - Machine-learning Application in Seismology
   - Earthquake Swarm
-
+  - Earthquake detection and location
 # Education to show in About widget
 education:
   courses:
