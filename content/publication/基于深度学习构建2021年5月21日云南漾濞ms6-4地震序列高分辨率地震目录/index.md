@@ -4,13 +4,14 @@ publication_types:
   - "2"
 authors:
   - 苏金波，刘敏，张云鹏，王伟涛，李红谊，杨军，李孝宾，张淼
-doi: "10.6038.cjg2021O0530, 2021 "
+doi: 10.6038.cjg2021O0530
 publication: 地球物理学报
+publication_short: ""
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-06-15T22:37:27.432Z
+date: 2021-08-18T22:48:48.833Z
 ---
