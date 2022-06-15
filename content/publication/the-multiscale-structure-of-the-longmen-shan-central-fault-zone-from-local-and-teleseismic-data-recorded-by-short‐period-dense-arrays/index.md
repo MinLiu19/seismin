@@ -4,13 +4,13 @@ title: The Multiscale Structure of the Longmen Shan Central Fault Zone from
 publication_types:
   - "2"
 authors:
-  - Huang Y.
-  - Li H.
-  - Liu X.
-  - Zhang Y.
-  - Liu M.
-  - Guan Y.
-  - Su J.
+  - Huang Yafen
+  - Li Hongyi
+  - Liu Xin
+  - Zhang Yuting
+  - Liu Min
+  - Guan Yong
+  - Su Jinrong
 doi: https://doi.org/10.1785/0120190292
 publication: Bulletin of the Seismological Society of America
 draft: false
