@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Min Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc of Seismology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dalhousie University
+    url: https://www.dal.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include earthquake nucleation, machine-learning application in seismology, earthquake swarm.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Earthquake Nucleation
+  - Machine-learning Application in Seismology
+  - Earthquake Swarm
 
 # Education to show in About widget
 education:
