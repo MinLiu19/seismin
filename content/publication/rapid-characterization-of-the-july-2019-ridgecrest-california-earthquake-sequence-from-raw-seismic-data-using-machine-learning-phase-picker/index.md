@@ -4,10 +4,11 @@ title: Rapid Characterization of the July 2019 Ridgecrest, California Earthquake
 publication_types:
   - "2"
 authors:
-  - Liu M.
-  - Zhang M.
-  - Zhu W.
-  - Ellsworth W. and Li H.
+  - Liu Min
+  - Zhang Miao
+  - Zhu Weiqiang
+  - Ellsworth William
+  - Li Hongyi
 doi: https://doi.org/10.1029/2019GL086189
 publication: Geophysical Research Letters
 draft: false
