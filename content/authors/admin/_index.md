@@ -61,8 +61,5 @@ email: m.liu@dal.ca
 highlight_name: true
 ---
 
-Min Liu is a recent Ocean Frontier Institute Postdoctoral Fellow in the Department of Earth and Environmental Sciences at Dalhousie University. Min was a visiting PhD student at Dalhousie from June 2019 to August 2020 before he received his PhD from the China University of Geosciences (Beijing) in September 2021. His PhD work focuses on the understanding of how earthquakes nucleate, migrate and their associated seismogenic structures using state-of-the-art methods including machine-learning-based high-precision earthquake location.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
