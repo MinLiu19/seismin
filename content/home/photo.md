@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 150
 
-title: News
+title: photo
 subtitle:
 
 content:
