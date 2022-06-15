@@ -9,7 +9,10 @@ authors:
   - Lu Li
   - Miao Zhang
   - Weitao Wang
+author_notes: []
 doi: https://doi.org/10.1029/2022JB024091
+publication: "Journal of Geophysical Research: Solid Earth"
+publication_short: ""
 abstract: On 21 May 2021, an MS 6.4 earthquake occurred in Yangbi, Yunnan
   province, China. A significant foreshock sequence occurred 3 days before the
   mainshock, which provides an opportunity to study earthquake nucleation. In
@@ -31,6 +34,7 @@ abstract: On 21 May 2021, an MS 6.4 earthquake occurred in Yangbi, Yunnan
   nucleation process of the 2021 Yangbi MS 6.4 mainshock.
 draft: false
 featured: false
+categories: []
 image:
   filename: featured
   focal_point: Smart
