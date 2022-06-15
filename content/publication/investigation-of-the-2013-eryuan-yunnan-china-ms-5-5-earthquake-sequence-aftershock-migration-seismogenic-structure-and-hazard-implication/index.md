@@ -33,7 +33,7 @@ abstract: "The Chuan-Dian block is one of the most seismically active regions in
   further illuminate the 2013 Eryuan sequence was accommodated by a strike-slip
   fault system separated by extensional stepover zones. In addition, we identify
   six repeating earthquake doublets in the aftershock sequence, implying that
-  some aftershocks of the MS 5.5 Eryuan mainshock may be driven by afterslip. "
+  some aftershocks of the MS 5.5 Eryuan mainshock may be driven by afterslip.  "
 draft: false
 featured: false
 image:
