@@ -4,13 +4,13 @@ title: Shallow Structure of the Longmen Shan Fault Zone from a High‐Density,
 publication_types:
   - "2"
 authors:
-  - Zhang Y.
-  - Li H.
-  - Huang Y.
-  - Liu M.
-  - Guan Y.
-  - Su J.
-  - Wang T.
+  - Zhang Yuting
+  - Li Hongyi
+  - Huang Yafen
+  - Liu Min
+  - Guan Yong
+  - Su Jinrong
+  - Wang Tongli
 doi: https://doi.org/10.1785/0120190147
 publication: Bulletin of the Seismological Society of America
 draft: false
