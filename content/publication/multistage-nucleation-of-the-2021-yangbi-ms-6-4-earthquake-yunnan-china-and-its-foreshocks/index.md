@@ -1,6 +1,6 @@
 ---
-title: Multistage Nucleation of the 2021 Yangbi MS 6.4 Earthquake, Yunnan, China
-  and Its Foreshocks
+title: "Multistage Nucleation of the 2021 Yangbi MS 6.4 Earthquake, Yunnan,
+  China and Its Foreshocks "
 publication_types:
   - "2"
 authors:
