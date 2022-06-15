@@ -11,6 +11,7 @@ authors:
   - Wang R.
   - Gosse J.
 doi: https://doi.org/10.1785/0220200297
+publication: Seismological Research Letters
 draft: false
 featured: false
 image:
